@@ -1,0 +1,1 @@
+Komunikacja Bot Discord - Kotlin. Aplikacja spełnia wymagania na oceny: 3.0, 3.5, 4.0 oraz 4.5. Nagranie przedstawia działanie programu: https://www.youtube.com/watch?v=WiXc7Bk8ljI&ab_channel=DorianBajorek
